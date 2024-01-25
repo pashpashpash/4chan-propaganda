@@ -31,6 +31,6 @@ Uploading images isn't supported, but is possible if you can dig through the Chi
 ## Other things to keep in mind
 The 4chan slider captcha is solved using an injected [js script](https://github.com/pashpashpash/4chan-propaganda/blob/main/4chan-script.js). I got it from [drunohazarb's repo](https://github.com/drunohazarb/4chan-captcha-solver). 
 
-4chan tends to make slight modifications to their captcha system, but drunohazarb does a good job staying on top of it. 
+4chan tends to make slight modifications to their captcha system, but [drunohazarb](https://github.com/drunohazarb) does a good job staying on top of it. 
 
 If you have trouble with the 4chan slider captcha, I recommend downloading the latest version of the solver script (preferably the wasm version) and updating the 4chan-script.js with its contents. You may have to modify some small stuff to accomidate the transition from a user script to a regular injected script. 
