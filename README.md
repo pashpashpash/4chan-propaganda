@@ -18,7 +18,7 @@ This Python script automates the process of posting content to specific threads 
 
 `pip3 install DrissionPage`
 
-3. (Optional) Set up Chromium
+3. (Optional) Set up latest Chromium driver and replace the one in this repo with the latest one.
 
 You can download it from Google Chrome's website and follow the installation instructions. Alternatively, don't do anything and just use the chromium driver in the repo.
 
