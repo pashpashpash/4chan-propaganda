@@ -1,5 +1,5 @@
 # 4chan propaganda script
-This Python script automates the process of posting content to specific threads on 4chan. It uses the DrissionPage package to control a Chromium browser, navigates to the 4chan threads, injects custom scripts, handles captchas, and posts content.
+This Python script automates the process of posting content to specific threads on 4chan. It uses the DrissionPage library to control a Chromium browser, navigates to the 4chan threads, injects custom scripts, handles captchas, and posts content.
 
 <img width="1478" alt="Screenshot 2024-01-08 at 1 42 28 PM" src="https://github.com/pashpashpash/4chan-propaganda/assets/20898225/27e37e1e-cbd0-4eee-a9c9-1d3cfd64a879">
 
