@@ -25,3 +25,5 @@ You can download it from Google Chrome's website and follow the installation ins
 ## Running the propaganda script
 `python3 script_name.py '[{"text": "Example text for post", "thread_id": "123456789"}, {"text": "Another example text", "thread_id": "987654321"}]'`
 
+## Things you can't do with this script
+Uploading images isn't supported, but is possible if you can dig through the Chinese [Drission library](https://github.com/g1879/DrissionPage) on github (good luck lol)
