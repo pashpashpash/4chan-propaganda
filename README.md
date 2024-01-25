@@ -16,18 +16,18 @@ You can see the posts here: https://archived.moe/biz/search/text/trumpworldpalsp
 ## Setup
 1. Install python3
 
-`brew update && brew install python3 && python3 --version`
+```brew update && brew install python3 && python3 --version```
 
 2. Install python dependency: DrissionPage
 
-`pip3 install DrissionPage`
+```pip3 install DrissionPage```
 
 3. (Optional) Set up latest Chromium driver and replace the one in this repo with the latest one.
 
 You can download it from Google Chrome's website and follow the installation instructions. Alternatively, don't do anything and just use the chromium driver in the repo.
 
 ## Running the propaganda script
-`python3 script_name.py '[{"text": "Example text for post", "thread_id": "123456789"}, {"text": "Another example text", "thread_id": "987654321"}]'`
+```python3 script_name.py '[{"text": "Example text for post", "thread_id": "123456789"}, {"text": "Another example text", "thread_id": "987654321"}]'```
 
 - Ensure the `thread_id`s are active threads that can be replied to.
 - The script will go through each item in the array, one by one, solving the captchas and posting the specified `text` content. 
