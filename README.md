@@ -29,7 +29,8 @@ You can download it from Google Chrome's website and follow the installation ins
 ## Running the propaganda script
 `python3 script_name.py '[{"text": "Example text for post", "thread_id": "123456789"}, {"text": "Another example text", "thread_id": "987654321"}]'`
 
-- Ensure the `thread_id`s are active threads that can be replied to. 
+- Ensure the `thread_id`s are active threads that can be replied to.
+- The script will go through each item in the array, one by one, solving the captchas and posting the specified `text` content. 
 
 ## Limitations
 - This script only makes posts in existing threads, though you could easily modify it to create new posts.
