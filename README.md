@@ -34,7 +34,7 @@ You can download it from Google Chrome's website and follow the installation ins
 - The script will go through each item in the array, one by one, solving the captchas and posting the specified `text` content. 
 
 ## Limitations
-- This script only makes posts in existing threads, though you could easily modify it to create new posts.
+- This script only makes posts in existing threads, though you could easily modify it to create new threads.
 - Uploading images isn't supported, but is possible if you can dig through the Chinese [Drission library](https://github.com/g1879/DrissionPage) on github (good luck lol) and implement the desired functionality.
 
 ## Other things to keep in mind
