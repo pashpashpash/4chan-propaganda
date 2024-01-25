@@ -16,7 +16,7 @@ This Python script automates the process of posting content to specific threads 
 
 2. Install python dependency: DrissionPage
 
-`pip install DrissionPage`
+`pip3 install DrissionPage`
 
 3. (Optional) Set up Chromium
 
