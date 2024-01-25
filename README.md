@@ -29,7 +29,7 @@ You can download it from Google Chrome's website and follow the installation ins
 Uploading images isn't supported, but is possible if you can dig through the Chinese [Drission library](https://github.com/g1879/DrissionPage) on github (good luck lol)
 
 ## Other things to keep in mind
-The 4chan slider captcha is solved using an injected js script. I got it from [drunohazarb's repo](https://github.com/drunohazarb/4chan-captcha-solver). 
+The 4chan slider captcha is solved using an injected [js script](https://github.com/pashpashpash/4chan-propaganda/blob/main/4chan-script.js). I got it from [drunohazarb's repo](https://github.com/drunohazarb/4chan-captcha-solver). 
 
 4chan tends to make slight modifications to their captcha system, but drunohazarb does a good job staying on top of it. 
 
