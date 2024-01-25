@@ -9,6 +9,10 @@ This Python script automates the process of posting content to specific threads 
 - Captcha Handling: Manages captcha interaction automatically, *including Cloudflare*.
 - Content Posting: Automatically posts content to the threads.
 
+## Proof that this works flawlessly
+I used OpenAI to generate a bunch of posts to shill a fake token called trumpworldpalsphere on the /biz/ board. I then passed the generated posts to this script to be posted.
+You can see the posts here: https://archived.moe/biz/search/text/trumpworldpalsphere
+
 ## Setup
 1. Install python3
 
