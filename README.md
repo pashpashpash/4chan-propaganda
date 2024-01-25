@@ -18,9 +18,9 @@ This Python script automates the process of posting content to specific threads 
 
 3. (Optional) Set up Chromium
 
-You can download it from Google Chrome's website and follow the installation instructions.
+You can download it from Google Chrome's website and follow the installation instructions. Alternatively, don't do anything and just use the chromium driver in the repo.
 
 ## Running the propaganda script
 `python3 script_name.py '[{"text": "Example text for post", "thread_id": "123456789"}, {"text": "Another example text", "thread_id": "987654321"}]'`
 
-
+<img width="1478" alt="Screenshot 2024-01-08 at 1 42 28 PM" src="https://github.com/pashpashpash/4chan-propaganda/assets/20898225/27e37e1e-cbd0-4eee-a9c9-1d3cfd64a879">
