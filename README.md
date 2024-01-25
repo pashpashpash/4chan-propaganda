@@ -27,6 +27,7 @@ You can see the posts here: https://archived.moe/biz/search/text/trumpworldpalsp
 You can download it from Google Chrome's website and follow the installation instructions. Alternatively, don't do anything and just use the chromium driver in the repo.
 
 ## Running the propaganda script
+
 ```python3 script_name.py '[{"text": "Example text for post", "thread_id": "123456789"}, {"text": "Another example text", "thread_id": "987654321"}]'```
 
 - Ensure the `thread_id`s are active threads that can be replied to.
