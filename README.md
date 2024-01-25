@@ -33,4 +33,4 @@ The 4chan slider captcha is solved using an injected [js script](https://github.
 
 4chan tends to make slight modifications to their captcha system, but [drunohazarb](https://github.com/drunohazarb) does a good job staying on top of it. 
 
-If you have trouble with the 4chan slider captcha, I recommend downloading the latest version of the solver script (preferably the wasm version) and updating the 4chan-script.js with its contents. You may have to modify some small stuff to accomidate the transition from a user script to a regular injected script. 
+If you have trouble with the 4chan slider captcha, I recommend downloading the latest version of the solver script (preferably the [wasm](https://github.com/drunohazarb/4chan-captcha-solver/blob/master/4chan-captcha-solver-wasm.user.js) version) and updating the 4chan-script.js with its contents. You may have to modify some small stuff to accomidate the transition from a user script to a regular injected script. 
